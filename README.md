@@ -1,2 +1,2 @@
 # file-upload
-Barebones file upload and download site.
+Barebones ultra basic and insecure file upload and download site.
